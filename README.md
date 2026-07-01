@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/bk50vt.png" alt="sirobail" width="100%" />
+<img src="https://files.catbox.moe/ygirfr.png" alt="sirobail" width="100%" />
 
 <br/>
 <br/>
