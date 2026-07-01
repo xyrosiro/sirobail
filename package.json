@@ -1,6 +1,6 @@
 {
   "name": "sirobail",
-  "version": "2.2.6-rc13",
+  "version": "2.2.7",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
